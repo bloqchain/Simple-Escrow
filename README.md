@@ -1,14 +1,9 @@
 
 Title:  Simple Escrow Smart Contract
-
 Author: Caro
-
 Date:   March 2019
-
 Email:  bloqchain@gmail.com
-
 Github: bloqchain
-
 File:   README.md
 
 ==================================================================
