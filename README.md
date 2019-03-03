@@ -26,7 +26,7 @@ An escrow is an agreement to transfer funds in exchange for a good or service --
 
 ## Environment ##
 
-This dapp was built leveraging the Truffle scaffolding generated with "truffle init" to lay out fundamental folders / files.  Desktop app Ganache (from Truffle) is used as operating blockchain.  OpenZeppelin safeguards are used as needed to minimize vulnerabilities and attack surfaces, such as "SafeMath."
+This dapp was built leveraging the Truffle scaffolding generated with 'truffle init' to lay out fundamental folders / files.  Desktop app Ganache (from Truffle) is used as operating blockchain.  OpenZeppelin safeguards are used as needed to minimize vulnerabilities and attack surfaces, such as 'SafeMath.'
 
 
 ## Deployment ##
