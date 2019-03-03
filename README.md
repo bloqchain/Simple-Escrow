@@ -53,7 +53,7 @@ Quick guideline to fire up this dapp:
 
 ## Local Blockchain Configuration ##
 
-This dapp uses the full-fledged Truffle local blockchain or Truffle Ganache as the local blockchain.  Please see the website:  truffleframework.com/ganache.
+This dapp uses the full-fledged Truffle local blockchain or Truffle Ganache as the local blockchain.  Please see the website:  truffleframework.com/ganache
 
 As such, the configuration is http://127.0.0.1:7545 for network and port settings, as reflected in the truffle-config.js file.
 
