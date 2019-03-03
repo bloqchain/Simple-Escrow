@@ -1,15 +1,15 @@
 
-Title:  	Simple Escrow Dapp
+Title:  Simple Escrow Dapp
 
-Author: 	Caro
+Author: Caro
 
-Date:   	March 2019
+Date:   March 2019
 
-Email:  	bloqchain@gmail.com
+Email:  bloqchain@gmail.com
 
-Github: 	bloqchain
+Github: bloqchain
 
-File:   	README.md
+File:   README.md
 
 
 ==================================================================
