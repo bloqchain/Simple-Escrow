@@ -46,7 +46,9 @@ Quick guideline to fire up this dapp:
       or truffle.js is showing right port for either Ganache desktop 
       app (7545) or Ganache-cli at 8545 or 9545
   * truffle test
-      Note: Ten tests have been written in Javascript.  All pass.  Please ensure ample funds in blockcahin accounts before executing tests.  In Ganache, this can be ensured by restarting the desktop app.
+    - Note:  Ten tests have been written in Javascript and all pass.  Please ensure
+      ample funds in blockchain accounts before executing tests.  In Ganache, this can 
+      be done by restarting the desktop app.
 
 
 ## Local Blockchain Configuration ##
