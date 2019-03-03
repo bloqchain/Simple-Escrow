@@ -21,7 +21,7 @@ File:   README.md
 
 ## Intro ##
 
-An escrow is an agreement to transfer funds in exchange for a good or service -- an ideal use case for smart contracts. Funds can be held in escrow until a service or good is provided, which can be "validated" or "approved" by independent third party.
+An escrow is an agreement to transfer funds in exchange for a good or service -- an ideal use case for smart contracts. Funds can be held in escrow until a service or good is provided, which can be 'validated' or 'approved' by independent third party.
 
 
 ## Environment ##
