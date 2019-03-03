@@ -1,5 +1,5 @@
 
-Title:  Simple Escrow Smart Contract
+Title:  Simple Escrow Dapp
 
 Author: Caro
 
